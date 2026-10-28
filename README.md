@@ -1,3 +1,5 @@
+# minha-primeira-linha-de-montagem
+
 # DevFlow Solutions — atividade S23A1
 
 Aplicação didática, independente do InsightPME. Requer Node.js 24 e npm.
